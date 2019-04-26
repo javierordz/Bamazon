@@ -1,0 +1,12 @@
+item_id,product_name,department_name,price,stock_qty
+101,"Moon Cheese","Grocery & Food",15,44
+102,"Hanes Men's Fleece Sweatshirt L","Sports & Outdoors",7,14
+103,"Anker Tactical Flashlight Boulder LC90","Sports & Outdoors",28,80
+104,"Crown Mark Floor Mirror Espresso","Home & Kitchen",55,10
+105,"Modway Loveseat Citrus","Home & Kitchen",635,8
+106,"Echo Dot (3rd Gen)",Electronics,50,200
+107,"Audio Technica AT-LP60BK-BT Black",Electronics,110,55
+108,"Playstation 4 Pro 1TB Console","Video Games",399,400
+109,"Salomon Men's Quest 4D GTX Boots","Clothing & Shoes",230,48
+110,"Osprey Atmos AG 65","Sports & Outdoors",270,12
+111,Banana,"Grocery & Food",10,135
